@@ -7,7 +7,7 @@
 * Click the + icon to create a new script
 * Copy all the code from the `main.js` file into the new script
 * Save the updates
-* Load anyone of the websites listed in the assignment reqs
+* Load any of the websites listed in the assignment reqs
   * https://www.distractify.com/p/trisha-paytas-broadway-show
   * https://cookieandkate.com/chickpea-tomato-soup-recipe/
 ## A brief explanation of your implementation. 
