@@ -1,7 +1,8 @@
 # Creative Injection 
+![image info](./creative-injection.png)
 
 ## Instructions on how to run the project. 
-* Install Tampermonkey (browser extension)
+* Install https://www.tampermonkey.net/
 * Navigate to the Dashboard of the extension
 * Click the + icon to create a new script
 * Copy all the code from the `main.js` file into the new script
