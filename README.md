@@ -11,7 +11,7 @@
   * https://www.distractify.com/p/trisha-paytas-broadway-show
   * https://cookieandkate.com/chickpea-tomato-soup-recipe/
 ## A brief explanation of your implementation. 
-* It is a very basic implementation with Vanilla JS, descriptive variables, methods, execution
+* It is a very basic implementation with Vanilla JS, descriptive variables, methods, and overall execution
 ## Any assumptions or design decisions made. 
 * I made a call to use Tampermonkey, because of the CSP limitations / pain to implement with creating custom chrome extensions. 
   * I didn't include an index.html, because with Tampermonkey, its also not needed! 
