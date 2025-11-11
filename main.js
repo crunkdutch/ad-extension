@@ -21,7 +21,7 @@
   btnLoader.style.display = "block";
   btnLoader.addEventListener('click', onMouseClick);
 
-  const loaderContainer = document.createElement("loader-container");
+  const loaderContainer = document.createElement("div");
   loaderContainer.style.position = "fixed";
   loaderContainer.style.background = "radial-gradient(#e66465, #9198e5)";
   loaderContainer.style.width = 200 + "px";
